@@ -5,4 +5,7 @@
 ### Week 1
 #### Day 1
 ---
-## Code 401 - Advanced Software Development ---
+## Code 401 - Advanced Software Development 
+### Week 1
+#### Day 1
+---
