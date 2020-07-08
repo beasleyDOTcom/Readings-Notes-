@@ -17,6 +17,17 @@ arrays, objects.
 when submitting a form you have to use event.preventDefault(); to keep the page from reloading on click and losing the info.
 
 reference recognizes that the value has already been allocated memory and just points to it by reference. 
+#### day 3 
+#####turnary statemnts in place of if
+if ? else if? else if? else
+a<b ? 1 :
+b<c ? 2 :
+c < d ? 3:
+4;
+##### mustache
+variable goes into double {{variableName}}
+triple {{{<html> will not show the tags but will instead}}}
+  checkout the demo day 3 in the class repo for more info.
 ---
 ## Code 401 - Advanced Software Development 
 ### Week 1
