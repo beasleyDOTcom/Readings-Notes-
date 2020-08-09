@@ -52,3 +52,12 @@ Once you solved every sub-problem, connect the dots.
     1. Reassess: Take a step back. Look at the problem from another perspective. Is there anything that can be abstracted to a more general approach?
     1. Also, delete everything and try again with a new perspective.
     1. Research, yeah google and stackoverflow.
+
+# 401 quick reference definitions
+### Why would you want to run JavaScript code outside of a browser?
+development purposes i.e. building, testing, apps, functions, etc.  
+### What is the difference between a module and a package?
+any of a number of distinct but interrelated units from which a program may be built up or into which a complex activity may be analyzed. via google dictionaries/oxford languages.
+### What does the node package manager do?
+
+### Provide code snippets showing 3 different ways to export a function from a node module
